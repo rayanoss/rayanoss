@@ -34,9 +34,9 @@
 <hr>
 <h3>Projects 🚧</h3>
 
-- [x] [StayFocus](https://revista.fatectq.edu.br/index.php/interfacetecnologica/article/view/566)
-- [x] [NightCity](https://revista.fatectq.edu.br/index.php/interfacetecnologica/article/view/545)
-- [x] [PORTFOLIO](https://medium.com/entelgybrasil/deno-171d454521e8?source=collection_home---4------3-----------------------)
+- [x] [StayFocus]()
+- [x] [NightCity]()
+- [x] [PORTFOLIO]()
 <hr>
 <h3>Contact 📫</h3>
 
