@@ -2,7 +2,7 @@
 
 ### ✔  **Domain :** Front-End Web Development 💻
 ### ✔  **Skills :** Javascript, ReactJs, Node.js, MongoDB
-### ✔  **Learning :** Back-End Web Development ⚙️
+### ✔  **Learning :** Web3
 ### ✔  **Hobbies :**  Read 📕, Music 🎧
 <hr>
 
