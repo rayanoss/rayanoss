@@ -1,9 +1,8 @@
 <h1>Hello, I'm Rayane 🙋‍♂️</h1>
 
 ### ✔  **Domain :** Front-End Web Development 💻
-### ✔  **Skills :** Javascript, ReactJs, Node.js, MongoDB
+### ✔  **Skills :** TypeScript, ReactJs
 ### ✔  **Learning :** Web3
-### ✔  **Hobbies :**  Read 📕, Music 🎧
 <hr>
 
 <h3>Languages ⌨️</h3>
