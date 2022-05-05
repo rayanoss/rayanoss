@@ -1,7 +1,7 @@
 <h1>Hello, I'm Rayane 🙋‍♂️</h1>
 
 ### ✔  **Domain :** Front-End Web Development 💻
-### ✔  **Skills :** TypeScript, ReactJs
+### ✔  **Skills :** TypeScript, ReactJS
 ### ✔  **Learning :** Web3
 <hr>
 
