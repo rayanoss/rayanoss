@@ -33,9 +33,9 @@
 <hr>
 <h3>Projects 🚧</h3>
 
-- [x] [StayFocus]()
-- [x] [NightCity]()
-- [x] [PortFolio]()
+- [x] [Focus]()
+- [x] [MyAvatar]()
+- [x] [Disrave]()
 <hr>
 <h3>Contact 📫</h3>
 
